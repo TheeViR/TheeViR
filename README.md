@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheeViR
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++ and Web Dev
+- 🌱 Currently learning Web Development and Data Structures
 - 💞️ I’m looking to collaborate
 
 <!---
