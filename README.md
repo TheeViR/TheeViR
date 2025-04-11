@@ -5,9 +5,14 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Code.+Build.+Repeat.;Consistency+is+my+superpower.;Let's+turn+ideas+into+projects!&center=true&width=500&height=40" />
 </p>
 
+<p align="right">
+  <img src="https://profile-counter.glitch.me/TheeViR/count.svg" alt="👀 Profile Views" style="border-radius:12px; box-shadow: 0px 0px 10px rgba(224,15,15,0.5);" />
+</p>
+
+
 ---
 
-🌟 **About Me**  
+🌟 **About Me**  </br>
 Hi! I’m Vir — a developer who loves turning simple ideas into smart, interactive web apps. I believe in **learning by building**, and I’m currently on a journey to master both frontend and backend technologies.  
 My dev journey is fueled by **daily coding, DSA challenges, UI design, and full-stack experimentation**. If I'm not solving a problem, I'm probably creating one... just to solve it! 😉
 
@@ -96,5 +101,9 @@ Included games:
 🔥 Let’s build, learn, and grow — together!
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Thank%20You%20🌿&fontAlign=50&fontAlignY=40&desc=Visit%20Again!&descAlign=50&descAlignY=70" />
+</p>
 
 
