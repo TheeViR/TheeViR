@@ -19,11 +19,11 @@ My dev journey is fueled by **daily coding, DSA challenges, UI design, and full-
 ---
 
 🛠️ **Tech Stack**
-<h5>Languages: C++, C, Java, JavaScript</h5>
-<h5>Frontend: ReactJS, Tailwind CSS, HTML, CSS</h5>
-<h5>Backend: Spring Boot, Java, REST APIs</h5>
-<h5>Database: MySQL</h5>
-<h5>Tools: Git, GitHub, VS Code</h5>
+<h4>Languages: C++, C, Java, JavaScript</h4>
+<h4>Frontend: ReactJS, Tailwind CSS, HTML, CSS</h4>
+<h4>Backend: Spring Boot, Java, REST APIs</h4>
+<h4>Database: MySQL</h4>
+<h4>Tools: Git, GitHub, VS Code</h4>
 
 ---
 
