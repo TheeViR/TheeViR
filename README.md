@@ -103,7 +103,7 @@ Included games:
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Thank%20You!%20🌿&descAlign=50&descAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Thank%20You%20🌿&descAlign=50&descAlignY=70" />
 </p>
 
 
