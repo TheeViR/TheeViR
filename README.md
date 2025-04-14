@@ -80,8 +80,6 @@ Included games:
 
 📈 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheeViR&show_icons=true&theme=tokyonight" alt="Vir GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TheeViR&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="Vir GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheeViR&layout=compact&theme=tokyonight" alt="Vir Top Languages" />
 </p>
 
