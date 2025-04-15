@@ -89,7 +89,7 @@ Included games:
 - 📧 Email: [vishalrshn@gmail.com](mailto:vishalrshn@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/vishal-roshan](https://www.linkedin.com/in/vishal-roshan/)
 - 🐦 X (Twitter): [@thevir888](https://x.com/thevir888)
-- 🔗 Portfolio: *coming soon...*
+- 🔗 Portfolio: [Vishal Roshan](https://portfoliovir.netlify.app/)
 
 ---
 
