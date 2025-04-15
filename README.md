@@ -4,8 +4,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Code.+Build.+Repeat.;Consistency+is+my+superpower.;Let's+turn+ideas+into+projects!&center=true&width=500&height=40" />
 </p>
-
-<p align="right">
+<h2 align ="right">Profile Views</h2>
+<p align="right"">
+  
   <img src="https://profile-counter.glitch.me/TheeViR/count.svg" alt="👀 Profile Views" style="border-radius:12px; box-shadow: 0px 0px 10px rgba(224,15,15,0.5);" />
 </p>
 
