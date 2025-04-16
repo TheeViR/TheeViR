@@ -14,7 +14,7 @@
 ---
 
 🌟 **About Me**  </br>
-Hi! I’m Vir — a developer who loves turning simple ideas into smart, interactive web apps. I believe in **learning by building**, and I’m currently on a journey to master both frontend and backend technologies.  
+Hi! I’m **_Vir_** — a developer who loves turning simple ideas into smart, interactive web apps. I believe in **learning by building**, and I’m currently on a journey to master both frontend and backend technologies.  
 My dev journey is fueled by **daily coding, DSA challenges, UI design, and full-stack experimentation**. If I'm not solving a problem, I'm probably creating one... just to solve it! 😉
 
 🔍 Always exploring →  
