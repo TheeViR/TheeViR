@@ -97,7 +97,7 @@ Included games:
 🎯 **Quote I Live By:**  
 *"Don't aim for 10/10 perfection, aim to make people smile with what you build."*
 
-🔥 Let’s build, learn, and grow — together!
+🔥  Let’s build, learn, and grow — together!
 
 ---
 
