@@ -6,10 +6,8 @@
 </p>
 <h2 align ="right">Profile Views</h2>
 <p align="right"">
-  
   <img src="https://profile-counter.glitch.me/TheeViR/count.svg" alt="👀 Profile Views" style="border-radius:12px; box-shadow: 0px 0px 10px rgba(224,15,15,0.5);" />
 </p>
-
 
 ---
 
@@ -46,7 +44,9 @@ Included games:
 - 😄 Emotion Guess  
 - 🎨 Color Memory  
 - 🎲 Dice Roller
+
 ---
+
 🧪 **Project: String Analyzer (Full-Stack)**  
 > A utility web app that helps users analyze and manipulate strings with various operations.  
 > Built with 💡 **ReactJS (frontend)** + **Spring Boot (backend)**  
@@ -68,6 +68,23 @@ Included games:
 - 📏 Word/Character Count  
 - 🧹 Trim + Remove Spaces  
 ...and more coming soon!
+
+---
+
+🧠 **Project: ThinkBin (React + Vite App)**  
+> A smart notepad for storing what I learn — from core concepts to detailed theory.  
+> Built to keep my dev notes organized, quick to access, and super interactive.  
+> Designed for lifelong learners who want a clean, minimal and responsive UI.
+
+🧰 **Core Features**:  
+- 📝 Add new concepts as Cards (Title + Summary + Full Theory)  
+- 📂 Expand/Collapse for detailed view  
+- 🗑️ Delete any concept easily  
+- 💡 Real-time updates, smooth animations  
+- 🎯 Coming Soon: Search, Filter by Tags, Edit feature, Save to localStorage
+
+🛠️ Tech Used: React, Vite, Tailwind CSS, Zustand (planned)  
+👉 **Live Demo:** [ThinkBin](https://thinkbin.vercel.app)
 
 ---
 
@@ -104,5 +121,3 @@ Included games:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&text=Thank%20You%20🌿&descAlign=50&descAlignY=70" />
 </p>
-
-
