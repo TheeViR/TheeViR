@@ -84,7 +84,7 @@ Included games:
 - 🎯 Coming Soon: Search, Filter by Tags, Edit feature, Save to localStorage
 
 🛠️ Tech Used: React, Vite, Tailwind CSS, Zustand (planned)  
-👉 **Live Demo:** [ThinkBin](https://thinkbin.vercel.app)
+👉 **Live Demo:** [ThinkBin](https://think-bin.vercel.app)
 
 ---
 
